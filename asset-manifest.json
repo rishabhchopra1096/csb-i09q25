@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "https://rishabhchopra1096.github.io/csb-i09q25/static/css/main.392be61e.chunk.css",
+    "main.js": "https://rishabhchopra1096.github.io/csb-i09q25/static/js/main.ea2183f7.chunk.js",
+    "main.js.map": "https://rishabhchopra1096.github.io/csb-i09q25/static/js/main.ea2183f7.chunk.js.map",
+    "runtime-main.js": "https://rishabhchopra1096.github.io/csb-i09q25/static/js/runtime-main.2ce3d6e6.js",
+    "runtime-main.js.map": "https://rishabhchopra1096.github.io/csb-i09q25/static/js/runtime-main.2ce3d6e6.js.map",
+    "static/css/2.75261d94.chunk.css": "https://rishabhchopra1096.github.io/csb-i09q25/static/css/2.75261d94.chunk.css",
+    "static/js/2.e045c829.chunk.js": "https://rishabhchopra1096.github.io/csb-i09q25/static/js/2.e045c829.chunk.js",
+    "static/js/2.e045c829.chunk.js.map": "https://rishabhchopra1096.github.io/csb-i09q25/static/js/2.e045c829.chunk.js.map",
+    "index.html": "https://rishabhchopra1096.github.io/csb-i09q25/index.html",
+    "static/css/2.75261d94.chunk.css.map": "https://rishabhchopra1096.github.io/csb-i09q25/static/css/2.75261d94.chunk.css.map",
+    "static/css/main.392be61e.chunk.css.map": "https://rishabhchopra1096.github.io/csb-i09q25/static/css/main.392be61e.chunk.css.map",
+    "static/js/2.e045c829.chunk.js.LICENSE.txt": "https://rishabhchopra1096.github.io/csb-i09q25/static/js/2.e045c829.chunk.js.LICENSE.txt",
+    "static/media/App.css": "https://rishabhchopra1096.github.io/csb-i09q25/static/media/SEGA.8a619f32.TTF"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.2ce3d6e6.js",
+    "static/css/2.75261d94.chunk.css",
+    "static/js/2.e045c829.chunk.js",
+    "static/css/main.392be61e.chunk.css",
+    "static/js/main.ea2183f7.chunk.js"
+  ]
+}
